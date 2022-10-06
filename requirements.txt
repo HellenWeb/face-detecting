@@ -1,0 +1,5 @@
+aiogram
+face-recognition
+openpyxl
+requests
+black
